@@ -1,0 +1,6 @@
+email|password|agentcode
+test_regis_1@example.com|@Pass12345|ABC121
+test_regis_2@example.com|@Pass12345|ABC122
+test_regis_3@example.com|@Pass12345|ABC123
+test_regis_4@example.com|@Pass12345|ABC124
+test_regis_5@example.com|@Pass12345|ABC125

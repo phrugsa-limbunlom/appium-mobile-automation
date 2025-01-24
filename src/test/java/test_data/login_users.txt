@@ -1,0 +1,6 @@
+email|password
+test_regis_1@example.com|@Pass12345
+test_regis_2@example.com|@Pass12345
+test_regis_3@example.com|@Pass12345
+test_regis_4@example.com|@Pass12345
+test_regis_5@example.com|@Pass12345
