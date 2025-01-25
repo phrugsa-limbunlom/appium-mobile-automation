@@ -24,3 +24,13 @@ gradle-app.setting
 
 # Dependencies
 node_modules/
+
+appium.config.json
+build.gradle
+gradlew
+gradlew.bat
+gradlew.properties
+local.properties
+package-lock.json
+package.json
+settings.gradle
