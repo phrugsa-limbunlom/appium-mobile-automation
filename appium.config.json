@@ -1,9 +1,0 @@
-{
-  "platformName": "Android",
-  "deviceName": "emulator-5554",
-  "appPackage": "app",
-  "appActivity": "app",
-  "automationName": "UiAutomator2",
-  "noReset": false,
-  "adbExecTimeout": 60000
-}
