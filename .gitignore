@@ -25,7 +25,6 @@ gradle-app.setting
 # Dependencies
 node_modules/
 
-appium.config.json
 build.gradle
 gradlew
 gradlew.bat
