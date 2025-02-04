@@ -1,12 +1,10 @@
 # appium-mobile-automation
 
-# Appium Server Setup
-
 This guide provides instructions on how to set up and run the Appium server for mobile test automation.
 
 ## Prerequisites
 
-- Node.js and npm installed on machine
+- Node.js and npm installed on the machine
 - Appium installed globally via npm
 
 ## Installation
